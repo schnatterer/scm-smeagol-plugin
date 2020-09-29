@@ -36,7 +36,7 @@
   </parent>
 
   <artifactId>scm-smeagol-plugin</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <packaging>smp</packaging>
   <url>https://github.com/scm-manager/scm-smeagol-plugin</url>
   <description>Integrates Smeagol wiki with SCM-Manager</description>
